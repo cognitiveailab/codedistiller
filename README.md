@@ -30,6 +30,7 @@ What you'll find in this repository:
 ## Table of Contents
 
 - [0. Paper](#0-paper)
+  - [0.1. Demonstration Video (Youtube)](#0-1-video)
 - [1. Frequently Asked Questions](#1-frequently-asked-questions)
 - [2. Installation](#2-installation)
   - [2.1. Setting up the repository](#2-1-setting-up-the-repository)
@@ -53,11 +54,25 @@ What you'll find in this repository:
 
 <span id='0-paper'/>
 
-## 0. Paper 
+## 0. Paper
 
 *CodeDistiller* is described in the following paper: [CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents](https://arxiv.org/).
 <div align="center">
 <img src="images/paper-preview.png" style="width: 600px; border: 1px solid lightgray;">
+</div>
+
+
+<span id='0-1-video'/>
+
+### 0.1. Demonstration Video
+
+The following short demonstration video (2.5 minutes) introduces *CodeDistiller*:
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=RQxSGFbGZSc" target="_blank">
+    <img src="images/youtube-preview.png" 
+         style="width:600px; border:1px solid lightgray;">
+  </a>
 </div>
 
 
