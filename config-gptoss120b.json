@@ -1,0 +1,7 @@
+{
+    "model_str_code": "openrouter/openai/gpt-oss-120b",
+    "model_str_fast": "openrouter/openai/gpt-oss-120b",
+    "max_runtime_mins": 45,
+    "max_debug_iterations": 8,
+    "output_base_path": "output-gpt-oss-120b/"    
+}
