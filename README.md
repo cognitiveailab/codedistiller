@@ -56,7 +56,7 @@ What you'll find in this repository:
 
 ## 0. Paper
 
-*CodeDistiller* is described in the following paper: [CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents](https://arxiv.org/).
+*CodeDistiller* is described in the following paper: [CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents](https://arxiv.org/abs/2512.01089).
 <div align="center">
 <img src="images/paper-preview.png" style="width: 600px; border: 1px solid lightgray;">
 </div>
@@ -324,7 +324,15 @@ The only API keys you should provide to *CodeDistiller* are those with hard limi
 
 If you use this work, please reference the following citation:
 ```
-TODO
+@misc{jansen2025codedistillerautomaticallygeneratingcode,
+      title={CodeDistiller: Automatically Generating Code Libraries for Scientific Coding Agents}, 
+      author={Peter Jansen and Samiah Hassan and Pragnya Narasimha},
+      year={2025},
+      eprint={2512.01089},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2512.01089}, 
+}
 ```
 
 
